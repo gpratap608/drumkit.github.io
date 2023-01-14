@@ -38,7 +38,6 @@ document.addEventListener("keyup",function(event){
             audio.play();
             break;
         default:
-            alert("Galat button mat daba bc");
             break;
     }
    
